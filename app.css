@@ -1,0 +1,36 @@
+
+/*selector {
+	property: value;
+}
+*/
+h1 {
+
+	color:orange;
+	/*border-color: purple;
+	border-width: 2px;
+	border-style: solid;*/
+
+	border: 5px solid purple;
+	/*border: 2px dashed	purple;*/
+}
+
+/*border
+width
+color
+style*/
+
+li {
+	border: lightslategray;
+	color: darkOrchid;
+}
+
+body {
+	background: url(https://pro2-bar-s3-cdn-cf4.myportfolio.com/923d2804b9a2befbb449d73e1ea5afe0/53f0e1cd-d9c7-44e2-9f2d-7c1c1fe74074_rw_1920.jpg?h=3004f9a5da6182a2cd63befa90612505);
+	background-size: cover;
+	color: cornflowerblue;
+	background-repeat: no-repeat;
+}
+
+h3 {
+	color: #FF1493;
+}

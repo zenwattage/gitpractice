@@ -1,0 +1,51 @@
+h1 {
+	text-align: center;
+	font-size: 75px;
+}
+
+table {
+	margin: auto;
+}
+
+.vertical {
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+}
+
+.horizontal {
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+}
+
+
+/*.topMiddle {
+	border-style: 2px solid black;
+	border-right: 2px solid black;
+	border-left: 2px solid black
+}
+
+.middle {
+	border-top: 2px solid black;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+}
+
+.bottom{
+	border-top: 2px solid black;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+}
+
+.topBorder {
+	border-top: 2px solid black;
+}
+*/
+
+/*.bottomBorder {
+	border-bottom: 2px solid black;
+}*/
+
+td	{
+	width: 200px;
+	height: 200px;
+}
